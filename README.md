@@ -1,4 +1,4 @@
-## Projeto 1 Explorer - Introdução ao HTML e CSS - Rocketseat
+## Projeto 1 Rocketseat Explorer - Introdução ao HTML e CSS
 
 ## Descrição:
 
